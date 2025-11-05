@@ -86,3 +86,9 @@ fieldset {
     font-size: 1.2rem;
     text-transform: uppercase;
 }
+.spinn {
+    text-align: center;
+    margin: 7rem auto;
+    width: 6rem;
+    height: 6rem;
+}
