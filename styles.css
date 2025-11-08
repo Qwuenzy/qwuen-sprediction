@@ -91,9 +91,12 @@ fieldset {
 }
 .spinn {
     text-align: center;
-    margin: 7rem auto;
+    margin: 7rem auto 4rem;
     width: 6rem;
     height: 6rem;
+}
+.crtrep{
+    font-size: 1.7rem;
 }
 .foot {
     color: #00b4d8;
