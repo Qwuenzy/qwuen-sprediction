@@ -35,7 +35,7 @@ async function fetchReport(data) {
       messages: message,
     });
 
-    console.log("Response:", response.choices[0].message.content);
+    
     return response.choices[0].message.content;
   } catch (err) {
     console.log("Error:" + err);
